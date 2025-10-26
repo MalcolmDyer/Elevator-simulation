@@ -1,0 +1,13 @@
+# Build outputs
+out/
+
+# Java bytecode artifacts
+*.class
+
+# IDE/OS clutter
+*.log
+.DS_Store
+.idea/
+
+# Comment-in the line below if you do not want to share VS Code settings
+# .vscode/
